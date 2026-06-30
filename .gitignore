@@ -1,0 +1,13 @@
+# Ignore dataset folders
+data/
+real/
+screen/
+val/
+
+# Ignore trained models and large binaries
+*.pkl
+*.h5
+
+# Ignore python cache files
+__pycache__/
+*.pyc
