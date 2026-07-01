@@ -1,0 +1,6 @@
+tensorflow==2.x
+opencv-python
+scikit-learn
+joblib
+scipy
+numpy
