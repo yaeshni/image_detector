@@ -1,3 +1,8 @@
+
+Report: https://docs.google.com/spreadsheets/d/1aic4hSo2U0DNIsvolFmGBWwMdyzoZYI4/edit?usp=drive_link&ouid=111220777700853621757&rtpof=true&sd=true
+
+
+
 # 📸 Spot the Fake Photo
 ### Real vs. Screen Recapture Classifier
 
